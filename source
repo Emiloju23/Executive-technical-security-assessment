@@ -1,0 +1,66 @@
+# Assessment Methodology
+
+## Purpose
+
+This document describes the methodology used for the executive and technical security assessment of the authorized demo scope.
+
+## Assessment Areas
+
+The assessment considered:
+
+- Asset inventory
+- Authentication and password practices
+- Access control and permissions
+- Services and exposed functionality
+- Logging and monitoring
+- Backup and recovery preparedness
+- Incident response readiness
+
+## Risk Assessment
+
+Risk was assessed using:
+
+*Risk = Likelihood × Impact*
+
+### Likelihood
+
+- Low — Unlikely to occur
+- Medium — Possible to occur
+- High — Likely to occur
+
+### Impact
+
+- Low — Limited effect
+- Medium — Moderate effect
+- High — Significant security or business effect
+
+## Risk Prioritization
+
+High-risk findings receive priority remediation.
+
+Medium-risk findings should be addressed during a planned remediation cycle.
+
+## Evidence Handling
+
+Evidence was documented safely and without exposing secrets, credentials, or unnecessary sensitive information.
+
+## Scope Limitation
+
+The assessment was restricted to the authorized demo scope. No unauthorized systems were tested.
+
+## Assessment Approach
+
+The assessment followed these general stages:
+
+1. Identify relevant assets.
+2. Consolidate security findings.
+3. Assess likelihood and impact.
+4. Assign risk ratings.
+5. Recommend mitigations.
+6. Prioritize remediation.
+7. Document incident-response recommendations.
+8. Produce executive and technical reporting.
+
+## Review
+
+The assessment should be reviewed periodically as systems, configurations, services, and security requirements change.
